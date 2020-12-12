@@ -5,7 +5,6 @@
 explorer_1/scripts/bower_components/
 explorer_1/webcontent
 
-node_modules
 
 .idea/*
 venv
